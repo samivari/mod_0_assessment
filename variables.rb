@@ -7,7 +7,8 @@ num_6 = 6
 product = (num_4 * num_6)
 
 favorite_foods = ["Ramen", "Tacos", "Tikia Massala Chettos"]
-favorite_foods = ["Ramen", "Tacos", "Tikia Massala Chettos"].delete(0)
+p favorite_foods.shift
+
 
 
 puts "There are #{movie.length} characters in #{movie}"
