@@ -1,10 +1,10 @@
 dinosaur = {
   "name" => 'Stegosaurus',
-  "temporal range" => 'Late Jurassic',
+  "temporal_range" => 'Late Jurassic',
   "height_in_ft" => 14,
   "length_in_ft" => 30.5,
   "is_a_herbivore" => true,
   "spoke_chinese" => false,
-  "inspired_Godzilla" => ['T-Rex', 'Lguanodon', 'Stegosaurus'],
-  "state_dinosaur" => ['Colorado']
+  "closest_relatives" => ['Wuerhosaurus', 'Kentrosaurus'],
+  "diet_plants" => ['ferns', 'moss', 'fruits', 'cycads', 'conifers']
 }
